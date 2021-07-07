@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541198995271",
+    "firebase_url": "https://flashfit-7e054.firebaseio.com",
+    "project_id": "flashfit-7e054",
+    "storage_bucket": "flashfit-7e054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541198995271:android:6550c3152e87d883aa0662",
+        "android_client_info": {
+          "package_name": "com.example.outfitzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541198995271-3vihthacb03gd46bh4nb6d575qgr8ob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLveBwWV3Al2lnb13vqZddmy_gGmBNAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541198995271-3vihthacb03gd46bh4nb6d575qgr8ob0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
